@@ -1,0 +1,3 @@
+[submodule "submoudules_1"]
+	path = submoudules_1
+	url = https://github.com/MUCb/submoudules_1.git
